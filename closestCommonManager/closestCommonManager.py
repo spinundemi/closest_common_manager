@@ -39,7 +39,6 @@ def getClosestManager2(root, employee1, employee2):
       return manager, flag1, flag2
   return manager, flag1, flag2
 
-
 def printEmployees(root, header = ""):
   print header, root.getName()
   for employee in root.getReports():
@@ -63,4 +62,4 @@ if __name__ == '__main__':
   dom.addReport(porter)
   peter.addReport(milton)
   peter.addReport(nina)
-  getClosestManagerSabba(ceo, peter, nina)
+  getClosestManager(ceo, peter, nina)
