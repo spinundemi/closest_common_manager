@@ -1,4 +1,4 @@
-Closest-Common-Manager
+Closest Common Manager Problem
 ======================
 
 This repository has two different solutions to the problem listed below. One solution is implemented in Python
