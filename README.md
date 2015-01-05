@@ -18,7 +18,9 @@ to two employees. You may assume that all employees eventually report up to the 
 Tree structure:
 
 Bill -> Dom, Samir, Michael
+
 Dom -> Bob, Peter, Porter
+
 Peter -> Milton, Nina
 
 *Sample Data:* 
